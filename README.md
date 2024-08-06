@@ -1,15 +1,19 @@
-# Age Calculator
+Here’s the updated README with the images included:
 
-This project allows users to calculate their age based on their birthdate. The application computes the number of years, months, and days between the current date and the provided birthdate.
+---
 
-## Features
+# 🎂 Age Calculator
 
-- **Age Calculation**: Computes and displays the age in years, months, and days based on the selected birthdate.
-- **Date Input**: Users can select their birthdate using a date picker.
+Welcome to the **Age Calculator**—a straightforward yet powerful tool designed to help you determine your exact age based on your birthdate. Whether you’re calculating your age for fun, or need it for a specific purpose, this application provides accurate results in years, months, and days.
 
-## Getting Started
+## 🌟 Key Features
 
-To use or view the Age Calculator application, follow these steps:
+- **🔢 Accurate Age Calculation**: Effortlessly compute and display your age in years, months, and days from your birthdate.
+- **📅 User-Friendly Date Input**: Easily select your birthdate using an intuitive date picker interface.
+
+## 🚀 Getting Started
+
+Follow these steps to get started with the Age Calculator:
 
 1. **Clone the Repository**:
 
@@ -18,35 +22,45 @@ To use or view the Age Calculator application, follow these steps:
    cd age-calculator
    ```
 
-2. **Open the HTML File**:
-   Open the `index.html` file in your web browser to view and interact with the application.
+2. **Open the Application**:
+   Launch the `index.html` file in your web browser to start using the Age Calculator.
 
-3. **Customize**:
-   - Modify the `style.css` file to adjust the appearance of the calculator.
-   - Update the `index.html` file or JavaScript code to customize functionality or styling.
+3. **Customization**:
+   - **Styling**: Adjust the visual appearance by modifying the `style.css` file.
+   - **Functionality**: Update the `index.html` or JavaScript code to tailor the functionality and style according to your needs.
 
-## Dependencies
+## 📚 Dependencies
 
-- **None**: This project uses vanilla JavaScript and HTML/CSS with no external dependencies.
+- **None**: This project is built with plain HTML, CSS, and JavaScript, and does not rely on any external libraries or frameworks.
 
-## Contribution
+## 🤝 Contributing
 
-To contribute to this project:
+We welcome contributions from the community! Here’s how you can get involved:
 
-1. **Fork the Repository**: Create a personal copy of the repository on GitHub.
-2. **Create a Feature Branch**: Develop new features or fixes in a separate branch.
-3. **Commit Changes**: Add and commit your modifications.
-4. **Push to the Branch**: Push your changes to your forked repository.
-5. **Create a Pull Request**: Submit a pull request to propose your changes.
+1. **Fork the Repository**: Create your own copy of the repository on GitHub.
+2. **Create a Feature Branch**: Work on new features or bug fixes in a separate branch.
+3. **Commit Your Changes**: Add and commit your modifications with descriptive messages.
+4. **Push to Your Branch**: Push your changes to your forked repository.
+5. **Submit a Pull Request**: Propose your changes by opening a pull request.
 
-## License
+## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE). You can freely use, modify, and distribute the code under the terms of the license.
+This project is open-source and licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code under the terms of this license.
 
-## Contact
+## 📧 Contact
 
-For questions or feedback, please reach out via the contact information provided in the repository.
+For any questions, feedback, or suggestions, please reach out using the contact information provided in the repository.
 
 ---
 
-Feel free to adapt this README file to better fit your project specifics and needs.
+## 📸 Screenshots
+
+Here’s a preview of the Age Calculator in action:
+
+### Application Interface
+
+![Age Calculator](https://github.com/shamshubham/Age-Calculator/blob/master/screenShots/Capture.JPG)
+
+### Date Picker and Result
+
+![Date Picker](https://github.com/shamshubham/Age-Calculator/blob/master/screenShots/Capture1.JPG)
