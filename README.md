@@ -1,7 +1,3 @@
-Here’s the updated README with the images included:
-
----
-
 # 🎂 Age Calculator
 
 Welcome to the **Age Calculator**—a straightforward yet powerful tool designed to help you determine your exact age based on your birthdate. Whether you’re calculating your age for fun, or need it for a specific purpose, this application provides accurate results in years, months, and days.
